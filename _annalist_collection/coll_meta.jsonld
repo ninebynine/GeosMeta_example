@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Example GeosMeta data",
+  "rdfs:comment": "",
+  "annal:type_id": "_collection",
+  "annal:url": "/annalist/c/GeosMeta_example/",
+  "annal:default_list": "Entity_list",
+  "annal:id": "GeosMeta_example",
+  "@id": "../",
+  "@type": [
+    "annal:Collection"
+  ],
+  "annal:type": "annal:Collection"
+}

@@ -1,0 +1,23 @@
+{
+  "rdfs:label": "Charles Roberts",
+  "rdfs:comment": "",
+  "annal:user_uri": "mailto:charlesjohnroberts@gmail.com",
+  "annal:type_id": "_user",
+  "annal:url": "/annalist/c/GeosMeta_example/d/_user/charlesroberts/",
+  "annal:user_permissions": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG",
+    "CREATE_COLL",
+    "DELETE_COLL",
+    "ADMIN"
+  ],
+  "annal:id": "charlesroberts",
+  "@id": "./",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:type": "annal:User"
+}
