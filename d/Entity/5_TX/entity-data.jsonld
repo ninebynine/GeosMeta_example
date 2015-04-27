@@ -1,0 +1,16 @@
+{
+  "geos:location": "file://burn.geos.ed.ac.uk/exports/work/geos_cesd/GeosMeta/myTests/Optclim1_project_mjmTestRG1/5.TX",
+  "rdfs:label": "5.TX",
+  "rdfs:comment": "Entity 5.TX",
+  "prov:wasAttributedTo": "mjm",
+  "annal:type_id": "Entity",
+  "prov:wasGeneratedBy_r": [],
+  "prov:wasDerivedFrom_r": [],
+  "annal:id": "5_TX",
+  "@id": "./",
+  "@type": [
+    "prov:Entity",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

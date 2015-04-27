@@ -23,6 +23,11 @@
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
+      "annal:field_id": "Entity_location"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
       "annal:field_id": "wasDerivedFrom_r"
     },
     {
@@ -33,11 +38,10 @@
   ],
   "rdfs:label": "Entity view",
   "rdfs:comment": "Form for displaying and editing prov:Entity data",
-  "annal:open_view": true,
+  "annal:id": "Entity_view",
   "annal:type_id": "_view",
   "annal:record_type": "prov:Entity",
-  "annal:url": "/annalist/c/GeosMeta_example/d/_view/Entity_view/",
-  "annal:id": "Entity_view",
+  "annal:open_view": true,
   "@id": "./",
   "@type": [
     "annal:View"

@@ -1,0 +1,26 @@
+{
+  "annal:display_type": "List",
+  "rdfs:label": "Project list",
+  "rdfs:comment": "List of projects",
+  "annal:id": "Project_list",
+  "annal:default_type": "Project",
+  "annal:type_id": "_list",
+  "annal:list_entity_selector": "geos:Project in [@type]",
+  "annal:record_type": "geos:Project",
+  "annal:list_fields": [
+    {
+      "annal:field_placement": "small:0,3",
+      "annal:field_id": "Entity_id"
+    },
+    {
+      "annal:field_placement": "small:3,9",
+      "annal:field_id": "Entity_label"
+    }
+  ],
+  "annal:default_view": "Project_view",
+  "@id": "./",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:type": "annal:List"
+}

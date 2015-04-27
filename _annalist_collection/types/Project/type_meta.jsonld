@@ -1,0 +1,15 @@
+{
+  "rdfs:label": "Project",
+  "rdfs:comment": "Entity representing a project to which activities (and more) may belong",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:uri": "geos:Project",
+  "annal:type_list": "Project_list",
+  "annal:id": "Project",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "Project_view"
+}

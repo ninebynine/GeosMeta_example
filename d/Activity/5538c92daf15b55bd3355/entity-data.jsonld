@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Activity 5538c92daf15b55bd3355",
+  "rdfs:comment": "Generates 1.TX and 2.TX",
+  "prov:wasAssociatedWith": "mjm",
+  "annal:type_id": "Activity",
+  "prov:endedAtTime": "",
+  "@type": [
+    "prov:Activity",
+    "annal:EntityData"
+  ],
+  "prov:used_r": [],
+  "annal:id": "5538c92daf15b55bd3355",
+  "@id": "./",
+  "prov:startedAtTime": "",
+  "annal:type": "annal:EntityData"
+}

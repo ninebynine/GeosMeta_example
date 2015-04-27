@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "mjm",
+  "rdfs:comment": "mjm (researcher)",
+  "annal:type_id": "Agent",
+  "annal:id": "mjm",
+  "@id": "./",
+  "@type": [
+    "prov:Agent",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

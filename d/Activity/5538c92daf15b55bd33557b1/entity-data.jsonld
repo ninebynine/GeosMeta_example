@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Activity 5538c92daf15b55bd33557b1",
+  "rdfs:comment": "Activity reads 5.TX and 4.TX, generates 7.TX\r\n\r\nactivities/5538c92daf15b55bd33557b1\r\n\r\n\"project\": \"OptclimTest1\",\r\n\"status\": \"DownStreamOfError\"\r\n\r\n",
+  "geos:project": "OptclimTest1",
+  "prov:wasAssociatedWith": "mjm",
+  "annal:type_id": "Activity",
+  "prov:startedAtTime": "",
+  "prov:endedAtTime": "2015-04-23T10:27:57",
+  "@type": [
+    "prov:Activity",
+    "annal:EntityData"
+  ],
+  "prov:used_r": [
+    {
+      "prov:used": "4_TX"
+    },
+    {
+      "prov:used": "5_TX"
+    }
+  ],
+  "annal:id": "5538c92daf15b55bd33557b1",
+  "@id": "./",
+  "geos:status": "Downstream of failure",
+  "annal:type": "annal:EntityData"
+}
